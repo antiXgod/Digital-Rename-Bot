@@ -28,13 +28,13 @@ License Link : https://github.com/DigitalBotz/Digital-Rename-Bot/blob/main/LICEN
 __name__ = "Digital-Rename-Bot"
 __version__ = "3.0.8"
 __license__ = " Apache License, Version 2.0"
-__copyright__ = "Copyright (C) 2022-present Digital Botz <https://github.com/DigitalBotz>"
-__programer__ = "<a href=https://github.com/DigitalBotz/Digital-Rename-Bot>Digital Botz</a>"
+__copyright__ = "Copyright (C) 2022-present Digital Botz <https://github.com/Ajeetx24>"
+__programer__ = "<a href=https://github.com/Ajeetx24>GitHub</a>"
 __library__ = "<a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>"
 __language__ = "<a href=https://www.python.org/>Pyᴛʜᴏɴ 3</a>"
 __database__ = "<a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>"
-__developer__ = "<a href=https://t.me/Digital_Botz>Digital Botz</a>"
-__maindeveloper__ = "<a href=https://t.me/RknDeveloper>RknDeveloper</a>"
+__developer__ = "<a href=https://t.me/me_miss_you>𓆩〭⃛〬𓆩〭⃛〬➤⃝✖‿✖•Ajͥeeͣtͫ</a>"
+__maindeveloper__ = "<a href=https://t.me/ajeet_bots>~ᴀᴊᴇᴇᴛ~</a>"
 
 # main copyright herders (©️)
 # I have been working on this repo since 2022
