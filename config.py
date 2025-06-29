@@ -61,7 +61,7 @@ class Config(object):
     try:
         FORCE_SUB = int(os.environ.get("FORCE_SUB", "AJEET_NETWORK")) 
     except:
-        FORCE_SUB = os.environ.get("FORCE_SUB", "Digital_Botz")
+        FORCE_SUB = os.environ.get("FORCE_SUB", "ajeet_movies")
         
     # wes response configuration     
     PORT = int(os.environ.get("PORT", "8080"))
@@ -86,7 +86,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Ajeet_bots 💞</b>"""
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
 ├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/Ajeetx24>{}</a>     
-├💥 Uᴘᴅᴀᴛᴇs: <a herf=https://t.me/Ajeet_bots>𓆩〭⃛〬𓆩〭⃛〬➤⃝✖‿✖•Ajͥeeͣtͫ</a></b>
+├💥 Uᴘᴅᴀᴛᴇs: <a herf=https://t.me/Ajeet_bots> 𓆩〭⃛〬𓆩〭⃛〬➤⃝✖‿✖•Ajͥeeͣtͫ </a></b>
 ╰───────────────⍟ """
 
     HELP_TXT = """
